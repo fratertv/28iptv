@@ -4,8 +4,7 @@ television local
 
 
 #EXTINF:-1 tvg-id="WAPA DEPORTE HD" tvg-logo="http://imgfz.com/i/wSxjbVX.png" group-title="TELEVISION DIGITAL.. 829-7816971",WAPA DEPORTE
-https://live.field59.com/wapa/wapa2/playlist.m3u8
-
+https://www.youtube.com/watch?v=FGduVvdLCQU
 
 2
 
