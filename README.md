@@ -1,13 +1,4 @@
-# 28iptv
-television local
-#EXTINF" tvg-logo="http://imgfz.com/i/wSxjbVX.png"
 
-
-#EXTINF:-1 tvg-id="WAPA DEPORTE HD" tvg-logo="http://imgfz.com/i/wSxjbVX.png" group-title="TELEVISION DIGITAL.. 829-7816971",WAPA DEPORTE
-https://live.field59.com/wapa/wapa2/playlist.m3u8
-
-
-2
 
 #EXTINF:-1 tvg-id="CARTOONNEWORK" tvg-logo="http://imgfz.com/i/wSxjbVX.png" group-title="TELEVISION DIGITAL.. 829-7816971",CARTOONNETWORK 
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
