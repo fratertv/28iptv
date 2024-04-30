@@ -1,4 +1,9 @@
 #EXTM3U 
+#EXTINF:-1 tvg-id="750" tvg-name="Telesistema" tvg-logo="https://lh3.googleusercontent.com/-YMFTyatktS4/XzgdjfP3Z4I/AAAAAAAA4V0/ufSfgaejWhUKTvcQB_47jJqsMtDqCNxIACK8BGAsYHg/s0/2020-08-15.jpg", Telesistema | DO
+https://f.gmsiptv.com/memfs/19b4d941-b056-48bb-85c1-97423f9f7da9.m3u8
+#EXTINF:-1 tvg-id="887" tvg-name="ATV CANAL 22" tvg-logo=:https://28iptv.blogspot.com/2023/05/atv-dimuinicana.html"
+https://ssh101-fl.bozztv.com/ssh101/atvcanal22/index.m3u8
+
 #EXTINF:-1 tvg-id="156" tvg-name="+ Listas en M3U.CL" tvg-logo="https://i2.paste.pics/84dae4a003b365e9b71ea1c50eb61c21.png", + Listas en M3U.CL * | CL
 https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="781" tvg-name="Elias Piña TV" tvg-logo="https://lh3.googleusercontent.com/--2XIngiA57w/YGpU6i9ZpMI/AAAAAAABBNw/Jxe_aZ_6vQwkGTzkzgepAgj5Wj5YdwbywCK8BGAsYHg/s512/2021-04-04.png", Elias Piña TV * | DO
@@ -121,8 +126,7 @@ http://ramgolive.ddns.net:1935/telenovisa43/telenovisa43/playlist.m3u8?PlaylistM
 https://ss4.domint.net:3008/tra_str/canal45/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="749" tvg-name="Teleradio Norte" tvg-logo="https://lh3.googleusercontent.com/-T-aOB_KmAl8/XzgdcQW2MhI/AAAAAAAA4Vw/gUo6n9IYqVEfYX75LIxV6SGMThCJ55-WACK8BGAsYHg/s0/2020-08-15.jpg", Teleradio Norte | DO
 https://angelistic.live:3785/hybrid/play.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="750" tvg-name="Telesistema" tvg-logo="https://lh3.googleusercontent.com/-YMFTyatktS4/XzgdjfP3Z4I/AAAAAAAA4V0/ufSfgaejWhUKTvcQB_47jJqsMtDqCNxIACK8BGAsYHg/s0/2020-08-15.jpg", Telesistema | DO
-http://ss3.domint.net:2114/t11_str/telesistema/chunklist_w44342477.m3u8?fluxustv.m3u8&PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="751" tvg-name="Teleunion" tvg-logo="https://lh3.googleusercontent.com/-0tQ6kWVCb1U/XzgdojrTiaI/AAAAAAAA4V4/DDHVWnS1yiMpiYqfJPZN3AEPs2SouEzcwCK8BGAsYHg/s0/2020-08-15.jpg", Teleunion | DO
 http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="752" tvg-name="Teleuniverso Canal 29" tvg-logo="https://lh3.googleusercontent.com/-8jIhN0E1Uv8/XzgduYfG7-I/AAAAAAAA4V8/pPr_hxQGka8sHGUQsbqv-GGRgDQtJeYXgCK8BGAsYHg/s0/2020-08-15.png", Teleuniverso Canal 29 | DO
