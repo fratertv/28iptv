@@ -4,38 +4,38 @@
 https://cdn.002radio.com:3909/live/radio002live.m3u8
 
 
-#EXTINF:-1 tvg-id="RETROXTV" tvg-logo="https://imgfz.com/i/wSxjbVX.png" group-title="Business;Legislative;News",ADOCCO TV (720p)
+1 #EXTINF:-1 tvg-id="RETROXTV" tvg-logo="https://imgfz.com/i/wSxjbVX.png" group-title="Business;Legislative;News",RETROXTV (720p)
 https://bozztv.com/ssh101/ssh101/123456789/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Agenda56TV.do" tvg-logo="https://i.imgur.com/G7zIVB7.png" group-title="General",Agenda 56 (720p)
+2 #EXTINF:-1 tvg-id="Agenda56TV.do" tvg-logo="https://i.imgur.com/G7zIVB7.png" group-title="General",Agenda 56 (720p)
 https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8
 
 
-#EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="Outdoor",Agrotendencia TV (1080p)
+3 #EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="Outdoor",Agrotendencia TV (1080p)
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="AIONTV.do" tvg-logo="https://i.imgur.com/DBvm7YS.png" group-title="General",AION TV (1080p)
+4 #EXTINF:-1 tvg-id="AIONTV.do" tvg-logo="https://i.imgur.com/DBvm7YS.png" group-title="General",AION TV (1080p)
 https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8
 
 
-#EXTINF:-1 tvg-id="AlegreTVRD.do" tvg-logo="https://i.imgur.com/O6USO8r.png" group-title="Entertainment",Alegre TV (720p)
+5 #EXTINF:-1 tvg-id="AlegreTVRD.do" tvg-logo="https://i.imgur.com/O6USO8r.png" group-title="Entertainment",Alegre TV (720p)
 https://vsrv2.az-streamingserver.com:3149/live/alegretvlive.m3u8
 
 
-#EXTINF:-1 tvg-id="Ame47.do" tvg-logo="https://i.imgur.com/MUEbjeP.png" group-title="General",Amé 47 (720p)
+6 #EXTINF:-1 tvg-id="Ame47.do" tvg-logo="https://i.imgur.com/MUEbjeP.png" group-title="General",Amé 47 (720p)
 https://ss9.domint.net:3040/ame_str/amecanal47/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="MAKINATV" tvg-logo="https://imgfz.com/i/wSxjbVX.png" group-title="VARIADO",MAKINATV (720p)
+7 #EXTINF:-1 tvg-id="MAKINATV" tvg-logo="https://imgfz.com/i/wSxjbVX.png" group-title="VARIADO",MAKINATV (720p)
 
 https://5790d294af2dc.streamlock.net:443/Makina/8218/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="https://i.imgur.com/AHaXlCh.png" group-title="Animation",Anime Zone TV (480p)
-http://animezonetv.net/hls/stream.m3u8
+8 #EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="https://i.imgur.com/AHaXlCh.png" group-title="Animation",Anime Zone TV (480p)
+https://5790d294af2dc.streamlock.net:443/Makina/8218/playlist.m3u8
 
 
 
