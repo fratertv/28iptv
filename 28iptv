@@ -1,4 +1,13 @@
 #EXTM3U
+
+
+
+#EXTINF:-1 tvg-id="GODECTV" tvg-name="GODECTV" tvg-logo="", delpueblo media
+https://5790d294af2dc.streamlock.net/Infoatvhd/Infoatvhd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DEL PUEBLO MEDIA" tvg-name="DEL PUEBLO MEDIA" tvg-logo="", delpueblo media
+http://vdopanel.jlahozconsulting.com/p/3869/hybrid/play.m3u8
+
 #EXTINF:-1 tvg-id="LUNATV"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbSUaDWkezkTvHLCjrposu7HB7D42eJwLPIULH3lk4md0Cb03rG7Ywf0ewe5_Ju1qEtkUjqjobxlQhPRCW01gFmwz_aieFAzDox6ZGjULCOJjm-cQVCU88ydKU9ZDL1x04UEkxpBdyiJLGaqwGnhR6LbaexAa2rU7L2EU3-sNYj8rcCb5U-PJ1Kxiwyg/s158/LunaTV.png"" group-TV="NOTICIAS",LUNATV (480p)
 https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8
 #EXTINF:-1 tvg-id="BEBETOTV" tvg-logo="https://bebetohd.com/imagen/logo.png" group-title="NOTICIAS",BEBETOTV (4K)
