@@ -2,7 +2,7 @@
 
 
 
-#EXTINF:-1 tvg-id="GODECTV" tvg-name="GODECTV" tvg-logo="", delpueblo media
+#EXTINF:-1 tvg-id="GODECTV" tvg-name="GODECTV" tvg-logo="", GODECTV
 https://5790d294af2dc.streamlock.net/Infoatvhd/Infoatvhd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DEL PUEBLO MEDIA" tvg-name="DEL PUEBLO MEDIA" tvg-logo="", delpueblo media
@@ -10,12 +10,13 @@ http://vdopanel.jlahozconsulting.com/p/3869/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="LUNATV"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbSUaDWkezkTvHLCjrposu7HB7D42eJwLPIULH3lk4md0Cb03rG7Ywf0ewe5_Ju1qEtkUjqjobxlQhPRCW01gFmwz_aieFAzDox6ZGjULCOJjm-cQVCU88ydKU9ZDL1x04UEkxpBdyiJLGaqwGnhR6LbaexAa2rU7L2EU3-sNYj8rcCb5U-PJ1Kxiwyg/s158/LunaTV.png"" group-TV="NOTICIAS",LUNATV (480p)
 https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8
-#EXTINF:-1 tvg-id="BEBETOTV" tvg-logo="https://bebetohd.com/imagen/logo.png" group-title="NOTICIAS",BEBETOTV (4K)
-https://television.essastream.com:3502/live/bebetotelevisionlive.m3u8
+#EXTINF:-1 tvg-id="OXIGENO TV
+" tvg-logo="" group-title="NOTICIAS",NISIBONNET (4K)
+http://vsrv212.az-streamingserver.com/p/3520/live/oxitvcanal36live.m3u8
 #EXTINF:-1 tvg-id="TVHigueyDigital.do" tvg-logo="https://i.imgur.com/ptQyOMi.png" group-title="NOTICIAS",TV Higuey Digital (DIGITAL CONEXIONTV)
 https://vdo1.streamgato.us:3046/live/tvhigueycanal12live.m3u8
-#EXTINF:-1 tvg-id="Canal4RD.do" tvg-logo="https://i.imgur.com/eiqpffH.png" group-title="General",Canal 4 RD (DIGITAL CONEXIONTV)
-https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
+#EXTINF:-1 tvg-id="LATINOS NY TV" tvg-logo="https://i.imgur.com/eiqpffH.png" group-title="General", (NISIBONNET)
+https://5790d294af2dc.streamlock.net:443/latinostv/latinostv/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemicro.do" tvg-logo="https://i.imgur.com/WhgySAk.png" group-title="NOTICIAS",Telemicro (DIGITAL CONEXIONTV)
 http://51.81.93.239:8084/hls/tmicro.m3u8
 #EXTINF:-1 tvg-id="ZTV.do" tvg-logo="https://i.imgur.com/7F4jQ13.png" group-title="NOTICIAS",ZTV (720p) [No 24/7 ]
