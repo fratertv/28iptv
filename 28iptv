@@ -15,6 +15,98 @@ https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8
 http://vsrv212.az-streamingserver.com/p/3520/live/oxitvcanal36live.m3u8
 #EXTINF:-1 tvg-id="TVHigueyDigital.do" tvg-logo="https://i.imgur.com/ptQyOMi.png" group-title="NOTICIAS",TV Higuey Digital (DIGITAL CONEXIONTV)
 https://vdo1.streamgato.us:3046/live/tvhigueycanal12live.m3u8
+#EXTM3U
+#EXTINF:-1,OXIGENO TV
+ http://vsrv212.az-streamingserver.com/p/3520/live/oxitvcanal36live.m3u8
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1, LATINOS NY TV
+https://5790d294af2dc.streamlock.net:443/latinostv/latinostv/playlist.m3u8
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1, IDEAL TV
+https://live.idealtvrd.com/livelan/stream.m3u8
+
+
+#EXTM3U
+#EXTINF:-1,LATINA INTERNACIÓN 14 TV
+https://5790d294af2dc.streamlock.net/latinatv/latinatv/playlist.m3u8
+
+
+
+#EXTM3U
+#EXTINF:-1, FARO VISION
+https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8
+
+
+
+
+#EXTM3U
+#EXTINF:-1,TELEPROYECTO
+https://5790d294af2dc.streamlock.net:443/Teleproyecto/Teleproyecto/playlist.m3u8
+
+
+
+
+#EXTM3U
+#EXTINF:-1,SIEMBRA TV
+https://streamunoapp.com:3809/live/siembratvlive.m3u8
+
+
+
+
+#EXTM3U
+#EXTINF:-1,R&E TELEVISIÓN
+https://live.ryetv.net/livelan/stream.m3u8
+
+
+
+#EXTM3U
+#EXTINF:-1, CANAL 26 LA VEGA
+http://rdn.essastream.com/p/3400/live/canal18hdlive.m3u8
+
+
+
+
+#EXTM3U
+#EXTINF:-1, CROM TV 
+https://cnn.essastream.com:3333/live/cromtvlive.m3u8
+
+
+
+
+#EXTM3U
+#EXTINF:-1, DTV BONAO
+https://s.emisoras.tv:8081/dtv/index.m3u8
+
+
+
+
+#EXTM3U
+#EXTINF:-1, NEXXO TV
+https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
+
+
+#EXTM3U
+#EXTINF:-1, PULSO VISION
+https://5790d294af2dc.streamlock.net:443/pulsovision/live/playlist.m3u8
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="LATINOS NY TV" tvg-logo="https://i.imgur.com/eiqpffH.png" group-title="General", (NISIBONNET)
 https://5790d294af2dc.streamlock.net:443/latinostv/latinostv/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemicro.do" tvg-logo="https://i.imgur.com/WhgySAk.png" group-title="NOTICIAS",Telemicro (DIGITAL CONEXIONTV)
