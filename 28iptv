@@ -2,25 +2,32 @@
 
 
 https://ibb.co/Lh1PB6NT
-#EXTINF:-1 tvg-id="GODECTV" tvg-name="GODECTV" tvg-logo="https://ibb.co/Lh1PB6NT", GODECTV
+#EXTINF:-1 tvg-id="GODECTV" tvg-name="GODECTV" tvg-logo="https://i.postimg.cc/kGxxc4CH/Whats-App-Image-2025-12-02-at-10-19-11-AM.jpg", GODECTV
 https://5790d294af2dc.streamlock.net/Infoatvhd/Infoatvhd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DEL PUEBLO MEDIA" tvg-name="DEL PUEBLO MEDIA" tvg-logo="https://ibb.co/Lh1PB6NT", delpueblo media
+#EXTINF:-1 tvg-id="DEL PUEBLO MEDIA" tvg-name="DEL PUEBLO MEDIA"https://i.postimg.cc/kGxxc4CH/Whats-App-Image-2025-12-02-at-10-19-11-AM.jpg", delpueblo media
 http://vdopanel.jlahozconsulting.com/p/3869/hybrid/play.m3u8
 #EXTM3U
 #EXTINF:-1,R&E TELEVISIÓN
 https://live.ryetv.net/livelan/stream.m3u8
-#EXTINF:-1 tvg-id="LUNATV"https://ibb.co/Lh1PB6NT"" group-TV="NOTICIAS",LUNATV (480p)
+#EXTINF:-1 tvg-id="LUNATV"https://i.postimg.cc/kGxxc4CH/Whats-App-Image-2025-12-02-at-10-19-11-AM.jpg" group-TV="NOTICIAS",LUNATV (480p)
 https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8
 #EXTINF:-1 tvg-id="OXIGENO TV
 https://streamunoapp.com:3520/live/oxitvcanal36live.m3u8
-" tvg-logo="https://drive.google.com/file/d/1XPSb7YnWhjgfcdtiXPonUMkffJCkG9j0/view" group-title="NOTICIAS",NISIBONNET (4K)
+" tvg-logo="https://i.postimg.cc/kGxxc4CH/Whats-App-Image-2025-12-02-at-10-19-11-AM.jpg" group-title="NOTICIAS",NISIBONNET (4K)
 http://vsrv212.az-streamingserver.com/p/3520/live/oxitvcanal36live.m3u8
-#EXTINF:-1 tvg-id="TVHigueyDigital.do" tvg-logo="https://i.imgur.com/ptQyOMi.png" group-title="NOTICIAS",TV Higuey Digital (DIGITAL CONEXIONTV)
+#EXTINF:-1 tvg-id="https://i.postimg.cc/kGxxc4CH/Whats-App-Image-2025-12-02-at-10-19-11-AM.jpg" group-title="NOTICIAS",TV Higuey Digital (DIGITAL CONEXIONTV)
 https://vdo1.streamgato.us:3046/live/tvhigueycanal12live.m3u8
 #EXTM3U
-#EXTINF:-1,OXIGENO TV
- http://vsrv212.az-streamingserver.com/p/3520/live/oxitvcanal36live.m3u8
+
+#EXTINF:-1 tvg-id=MULTIVISION" tvg-logo="https://i.postimg.cc/kGxxc4CH/Whats-App-Image-2025-12-02-at-10-19-11-AM.jpg" group-title="News",ADN 40
+https://live20.bozztv.com/akamaissh101/ssh101/canalmulti24/chunks.m3u8
+
+
+
+
+
+
 
 
 
@@ -170,8 +177,7 @@ https://ss5.domint.net:3174/car_str/carivision/playlist.m3u8
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 tvg-id="ACSNetwork.pr" tvg-logo="https://i.imgur.com/7aIab2r.png" group-title="Entertainment",ACS Network
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
-#EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="News",ADN 40
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
 #EXTINF:-1 tvg-id="AIONTV.do" tvg-logo="https://i.imgur.com/DBvm7YS.png" group-title="General",AION TV
 https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8
 #EXTINF:-1 tvg-id="ATNTelevision.co" tvg-logo="https://i.imgur.com/79sX78u.png" group-title="",ATN Television
