@@ -5,16 +5,16 @@
 #EXTINF:-1 tvg-id="GODECTV" tvg-name="GODECTV" tvg-logo="", GODECTV
 https://5790d294af2dc.streamlock.net/Infoatvhd/Infoatvhd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DEL PUEBLO MEDIA" tvg-name="DEL PUEBLO MEDIA" tvg-logo="", delpueblo media
+#EXTINF:-1 tvg-id="DEL PUEBLO MEDIA" tvg-name="DEL PUEBLO MEDIA" tvg-logo="https://drive.google.com/file/d/1XPSb7YnWhjgfcdtiXPonUMkffJCkG9j0/view", delpueblo media
 http://vdopanel.jlahozconsulting.com/p/3869/hybrid/play.m3u8
 #EXTM3U
 #EXTINF:-1,R&E TELEVISIÓN
 https://live.ryetv.net/livelan/stream.m3u8
-#EXTINF:-1 tvg-id="LUNATV"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbSUaDWkezkTvHLCjrposu7HB7D42eJwLPIULH3lk4md0Cb03rG7Ywf0ewe5_Ju1qEtkUjqjobxlQhPRCW01gFmwz_aieFAzDox6ZGjULCOJjm-cQVCU88ydKU9ZDL1x04UEkxpBdyiJLGaqwGnhR6LbaexAa2rU7L2EU3-sNYj8rcCb5U-PJ1Kxiwyg/s158/LunaTV.png"" group-TV="NOTICIAS",LUNATV (480p)
+#EXTINF:-1 tvg-id="LUNATV"https://drive.google.com/file/d/1XPSb7YnWhjgfcdtiXPonUMkffJCkG9j0/view"" group-TV="NOTICIAS",LUNATV (480p)
 https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8
 #EXTINF:-1 tvg-id="OXIGENO TV
 https://streamunoapp.com:3520/live/oxitvcanal36live.m3u8
-" tvg-logo="" group-title="NOTICIAS",NISIBONNET (4K)
+" tvg-logo="https://drive.google.com/file/d/1XPSb7YnWhjgfcdtiXPonUMkffJCkG9j0/view" group-title="NOTICIAS",NISIBONNET (4K)
 http://vsrv212.az-streamingserver.com/p/3520/live/oxitvcanal36live.m3u8
 #EXTINF:-1 tvg-id="TVHigueyDigital.do" tvg-logo="https://i.imgur.com/ptQyOMi.png" group-title="NOTICIAS",TV Higuey Digital (DIGITAL CONEXIONTV)
 https://vdo1.streamgato.us:3046/live/tvhigueycanal12live.m3u8
