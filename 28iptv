@@ -1,16 +1,16 @@
 #EXTM3U
 
 
-
-#EXTINF:-1 tvg-id="GODECTV" tvg-name="GODECTV" tvg-logo="", GODECTV
+https://ibb.co/Lh1PB6NT
+#EXTINF:-1 tvg-id="GODECTV" tvg-name="GODECTV" tvg-logo="https://ibb.co/Lh1PB6NT", GODECTV
 https://5790d294af2dc.streamlock.net/Infoatvhd/Infoatvhd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DEL PUEBLO MEDIA" tvg-name="DEL PUEBLO MEDIA" tvg-logo="https://drive.google.com/file/d/1XPSb7YnWhjgfcdtiXPonUMkffJCkG9j0/view", delpueblo media
+#EXTINF:-1 tvg-id="DEL PUEBLO MEDIA" tvg-name="DEL PUEBLO MEDIA" tvg-logo="https://ibb.co/Lh1PB6NT", delpueblo media
 http://vdopanel.jlahozconsulting.com/p/3869/hybrid/play.m3u8
 #EXTM3U
 #EXTINF:-1,R&E TELEVISIÓN
 https://live.ryetv.net/livelan/stream.m3u8
-#EXTINF:-1 tvg-id="LUNATV"https://drive.google.com/file/d/1XPSb7YnWhjgfcdtiXPonUMkffJCkG9j0/view"" group-TV="NOTICIAS",LUNATV (480p)
+#EXTINF:-1 tvg-id="LUNATV"https://ibb.co/Lh1PB6NT"" group-TV="NOTICIAS",LUNATV (480p)
 https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8
 #EXTINF:-1 tvg-id="OXIGENO TV
 https://streamunoapp.com:3520/live/oxitvcanal36live.m3u8
