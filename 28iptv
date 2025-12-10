@@ -2,25 +2,27 @@
 
 
 https://ibb.co/Lh1PB6NT
-#EXTINF:-1 tvg-id="GODECTV" tvg-name="GODECTV" tvg-logo="https://i.postimg.cc/kGxxc4CH/Whats-App-Image-2025-12-02-at-10-19-11-AM.jpg", GODECTV
+#EXTINF:-1 tvg-id="GODECTV" tvg-name="GODECTV" tvg-logo="[url=https://ibb.co/yF1HnYPY][img]https://i.ibb.co/yF1HnYPY/nisibonneetv.png[/img][/url]", GODECTV
 https://5790d294af2dc.streamlock.net/Infoatvhd/Infoatvhd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DEL PUEBLO MEDIA" tvg-name="DEL PUEBLO MEDIA"https://i.postimg.cc/kGxxc4CH/Whats-App-Image-2025-12-02-at-10-19-11-AM.jpg", delpueblo media
+#EXTINF:-1 tvg-id="DEL PUEBLO MEDIA" tvg-name="DEL PUEBLO MEDIA"[url=https://ibb.co/yF1HnYPY][img]https://i.ibb.co/yF1HnYPY/nisibonneetv.png[/img][/url]", delpueblo media
 http://vdopanel.jlahozconsulting.com/p/3869/hybrid/play.m3u8
+
 #EXTM3U
-#EXTINF:-1,R&E TELEVISIÓN
+#EXTINF:-1,R&E TELEVISIÓN "[url=https://ibb.co/yF1HnYPY][img]https://i.ibb.co/yF1HnYPY/nisibonneetv.png[/img][/url]",
 https://live.ryetv.net/livelan/stream.m3u8
-#EXTINF:-1 tvg-id="LUNATV"https://i.postimg.cc/kGxxc4CH/Whats-App-Image-2025-12-02-at-10-19-11-AM.jpg" group-TV="NOTICIAS",LUNATV (480p)
+
+#EXTINF:-1 tvg-id="LUNATV"[url=https://ibb.co/yF1HnYPY][img]https://i.ibb.co/yF1HnYPY/nisibonneetv.png[/img][/url]"," group-TV="NOTICIAS",LUNATV (480p)
 https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8
-#EXTINF:-1 tvg-id="OXIGENO TV
-https://streamunoapp.com:3520/live/oxitvcanal36live.m3u8
-" tvg-logo="https://i.postimg.cc/kGxxc4CH/Whats-App-Image-2025-12-02-at-10-19-11-AM.jpg" group-title="NOTICIAS",NISIBONNET (4K)
-http://vsrv212.az-streamingserver.com/p/3520/live/oxitvcanal36live.m3u8
-#EXTINF:-1 tvg-id="https://i.postimg.cc/kGxxc4CH/Whats-App-Image-2025-12-02-at-10-19-11-AM.jpg" group-title="NOTICIAS",TV Higuey Digital (DIGITAL CONEXIONTV)
+#EXTM3U
+#EXTINF:-1,TELEPROYECTO "[url=https://ibb.co/yF1HnYPY][img]https://i.ibb.co/yF1HnYPY/nisibonneetv.png[/img][/url]",
+https://5790d294af2dc.streamlock.net:443/Teleproyecto/Teleproyecto/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[url=https://ibb.co/yF1HnYPY][img]https://i.ibb.co/yF1HnYPY/nisibonneetv.png[/img][/url]"," group-title="NOTICIAS",TV Higuey Digital (DIGITAL CONEXIONTV)
 https://vdo1.streamgato.us:3046/live/tvhigueycanal12live.m3u8
 #EXTM3U
 
-#EXTINF:-1 tvg-id=MULTIVISION" tvg-logo="https://i.postimg.cc/kGxxc4CH/Whats-App-Image-2025-12-02-at-10-19-11-AM.jpg" group-title="News",ADN 40
+#EXTINF:-1 tvg-id=MULTIVISION"[url=https://ibb.co/yF1HnYPY][img]https://i.ibb.co/yF1HnYPY/nisibonneetv.png[/img][/url]"," group-title="News",ADN 40
 https://live20.bozztv.com/akamaissh101/ssh101/canalmulti24/chunks.m3u8
 
 
@@ -34,7 +36,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/canalmulti24/chunks.m3u8
 
 
 #EXTM3U
-#EXTINF:-1, LATINOS NY TV
+#EXTINF:-1, LATINOS NY TV "[url=https://ibb.co/yF1HnYPY][img]https://i.ibb.co/yF1HnYPY/nisibonneetv.png[/img][/url]",
 https://5790d294af2dc.streamlock.net:443/latinostv/latinostv/playlist.m3u8
 
 
@@ -47,21 +49,19 @@ https://live.idealtvrd.com/livelan/stream.m3u8
 
 
 #EXTM3U
-#EXTINF:-1,LATINA INTERNACIÓN 14 TV
+#EXTINF:-1,LATINA INTERNACIÓN 14 TV "[url=https://ibb.co/yF1HnYPY][img]https://i.ibb.co/yF1HnYPY/nisibonneetv.png[/img][/url]",
 https://5790d294af2dc.streamlock.net/latinatv/latinatv/playlist.m3u8
 
 
 
 #EXTM3U
-#EXTINF:-1, FARO VISION
+#EXTINF:-1, FARO VISION "[url=https://ibb.co/yF1HnYPY][img]https://i.ibb.co/yF1HnYPY/nisibonneetv.png[/img][/url]",
 https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8
 
 
 
 
-#EXTM3U
-#EXTINF:-1,TELEPROYECTO
-https://5790d294af2dc.streamlock.net:443/Teleproyecto/Teleproyecto/playlist.m3u8
+
 
 
 
@@ -78,53 +78,50 @@ https://streamunoapp.com:3809/live/siembratvlive.m3u8
 
 
 #EXTM3U
-#EXTINF:-1, CANAL 26 LA VEGA
+#EXTINF:-1, CANAL 26 LA VEGA "[url=https://ibb.co/yF1HnYPY][img]https://i.ibb.co/yF1HnYPY/nisibonneetv.png[/img][/url]",
 http://rdn.essastream.com/p/3400/live/canal18hdlive.m3u8
 
 
 
 
 #EXTM3U
-#EXTINF:-1, CROM TV 
+#EXTINF:-1, CROM TV "[url=https://ibb.co/yF1HnYPY][img]https://i.ibb.co/yF1HnYPY/nisibonneetv.png[/img][/url]",
 https://cnn.essastream.com:3333/live/cromtvlive.m3u8
 
 
 
 
 #EXTM3U
-#EXTINF:-1, DTV BONAO
+#EXTINF:-1, DTV BONAO "[url=https://ibb.co/yF1HnYPY][img]https://i.ibb.co/yF1HnYPY/nisibonneetv.png[/img][/url]",
 https://s.emisoras.tv:8081/dtv/index.m3u8
 
 
 
 
 #EXTM3U
-#EXTINF:-1, NEXXO TV
+#EXTINF:-1, NEXXO TV "[url=https://ibb.co/yF1HnYPY][img]https://i.ibb.co/yF1HnYPY/nisibonneetv.png[/img][/url]",
 https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
 
 
 #EXTM3U
-#EXTINF:-1, PULSO VISION
+#EXTINF:-1, PULSO VISION "[url=https://ibb.co/yF1HnYPY][img]https://i.ibb.co/yF1HnYPY/nisibonneetv.png[/img][/url]",
 https://5790d294af2dc.streamlock.net:443/pulsovision/live/playlist.m3u8
 
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="LATINOS NY TV" tvg-logo="https://i.imgur.com/eiqpffH.png" group-title="General", (NISIBONNET)
+#EXTINF:-1 tvg-id="LATINOS NY TV" tvg-logo="[url=https://ibb.co/yF1HnYPY][img]https://i.ibb.co/yF1HnYPY/nisibonneetv.png[/img][/url]"," group-title="General", (NISIBONNET)
 https://5790d294af2dc.streamlock.net:443/latinostv/latinostv/playlist.m3u8
-#EXTINF:-1 tvg-id="Telemicro.do" tvg-logo="https://i.imgur.com/WhgySAk.png" group-title="NOTICIAS",Telemicro (DIGITAL CONEXIONTV)
+
+#EXTINF:-1 tvg-id="Telemicro.do" "[url=https://ibb.co/yF1HnYPY][img]https://i.ibb.co/yF1HnYPY/nisibonneetv.png[/img][/url]"," group-title="NOTICIAS",Telemicro (DIGITAL CONEXIONTV)
 http://51.81.93.239:8084/hls/tmicro.m3u8
-#EXTINF:-1 tvg-id="ZTV.do" tvg-logo="https://i.imgur.com/7F4jQ13.png" group-title="NOTICIAS",ZTV (720p) [No 24/7 ]
+
+#EXTINF:-1 tvg-id="ZTV.do" tvg-logo="[url=https://ibb.co/yF1HnYPY][img]https://i.ibb.co/yF1HnYPY/nisibonneetv.png[/img][/url]", group-title="NOTICIAS",ZTV (720p) [No 24/7 ]
 https://lb00zdigital.streamprolive.com/mnt/hls/live.m3u8
+
 #EXTINF:-1 tvg-id="ANTENA LATINA 7" tvg-logo="" group-title="NOTICIAS",ANTENA 7 TV RD(DIGITA
 https://alba-do-antena7-antena7.stream.mediatiquestream.com/index.m3u8
+
 #EXTINF:-1 tvg-id="Bellavision.do" tvg-logo="https://i.imgur.com/XqQ3kCs.png" group-title="",Bellavision (DIGITAL CONEXIONTV)
 https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8
+
 #EXTINF:-1 tvg-id="colorvision" tvg-logo="https://colorvision.com.do/wp-content/uploads/cropped-canal-9-colorvision-republica-dominicana-32x32.png" group-title="829-7816971",colorvision (1080p)
 https://f.gmsiptv.com/memfs/400c208a-389d-45f1-837e-fcb52dd477e2.m3u8
 #EXTINF:-1 tvg-id="ALLENTV RD" tvg-logo="http://imgfz.com/i/zWIDR3K.png" group-title="NOTICIAS",ALLENTV RD(DIGITAL CONEXIONTV)
