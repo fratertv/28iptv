@@ -1,74 +1,112 @@
-#EXTM3U
-
-
-https://ibb.co/Lh1PB6NT
-#EXTINF:-1 tvg-id="GODECTV" tvg-name="GODECTV" tvg-logo="https://i.postimg.cc/yN4fcRWh/nisibonneetv.png", GODECTV
+#EXTINF:-1 tvg-id="GODECTV" tvg-logo="https://i.postimg.cc/1zjLkXz0/nisibonneetv.png" group-title="NOTICIAS",RD (720p)
 https://5790d294af2dc.streamlock.net/Infoatvhd/Infoatvhd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DEL PUEBLO MEDIA" tvg-name="DEL PUEBLO MEDIA"https://i.postimg.cc/yN4fcRWh/nisibonneetv.png", delpueblo media
-http://vdopanel.jlahozconsulting.com/p/3869/hybrid/play.m3u8
 
-#EXTM3U
-#EXTINF:-1,R&E TELEVISIÓN "https://i.postimg.cc/1zjLkXz0/nisibonneetv.png",
-https://live.ryetv.net/livelan/stream.m3u8
 
-#EXTINF:-1 tvg-id="LUNATV"https://i.postimg.cc/yN4fcRWh/nisibonneetv.png" group-TV="NOTICIAS",LUNATV (480p)
-https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8
-#EXTM3U
-#EXTINF:-1,TELEPROYECTO "https://i.postimg.cc/yN4fcRWh/nisibonneetv.png",
-https://5790d294af2dc.streamlock.net:443/Teleproyecto/Teleproyecto/playlist.m3u8
+#EXTINF:-1 tvg-id="BELLA VISION" tvg-logo="https://i.postimg.cc/1zjLkXz0/nisibonneetv.png" group-title="NOTICIAS",RD (720p)
+https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8
 
-#EXTINF:-1 tvg-id="[url=https://ibb.co/yF1HnYPY][img]https://i.ibb.co/yF1HnYPY/nisibonneetv.png[/img][/url]"," group-title="NOTICIAS",TV Higuey Digital (DIGITAL CONEXIONTV)
+
+
+#EXTINF:-1 tvg-id="GODECTV" tvg-logo="https://i.postimg.cc/1zjLkXz0/nisibonneetv.png" group-title="NOTICIAS",RD (720p)
+https://5790d294af2dc.streamlock.net/Infoatvhd/Infoatvhd/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="PULSO VISION" tvg-logo="https://i.postimg.cc/1zjLkXz0/nisibonneetv.png" group-title="NOTICIAS",RD (720p)
+https://5790d294af2dc.streamlock.net:443/pulsovision/live/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="Boreal.do" tvg-logo="https://i.imgur.com/KSquHTG.png" group-title="RD 7:20P ",Boreal (720p)
+https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="COCOTV.do" tvg-logo="https://i.imgur.com/CnAc7jU.png" group-title="Entretenimiento",COCO TV (720p)
+https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
+
+
+#EXTINF:-1 tvg-id="MakaoTV.do" tvg-logo="https://i.imgur.com/asD5y7i.png" group-title="Sin definir",Makao TV (360p)
+https://live.obslivestream.com/makaomux/tracks-v2a1/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="Antena21 RD" tvg-logo="http://imgfz.com/i/M9YNFlw.png" group-title="NOTICIAS",antena21 RD(DIGITAL CONEXIONTV)
+https://ssh101-fl.bozztv.com/ssh101/rctvhd21/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="Telefuturo.do" tvg-logo="https://i.imgur.com/QpnctoU.png" group-title="Sin definir",Telefuturo (1080p)
+https://ss9.domint.net:3054/tf_str/telefuturo/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="TV HIGUEY CANAL 12" tvg-logo="https://i.postimg.cc/1zjLkXz0/nisibonneetv.png" group-title="NOTICIAS",RD (720p)
 https://vdo1.streamgato.us:3046/live/tvhigueycanal12live.m3u8
-#EXTM3U
-
-#EXTINF:-1 tvg-id=MULTIVISION"[url=https://ibb.co/yF1HnYPY][img]https://i.ibb.co/yF1HnYPY/nisibonneetv.png[/img][/url]"," group-title="News",ADN 40
-https://live20.bozztv.com/akamaissh101/ssh101/canalmulti24/chunks.m3u8
 
 
 
+#EXTINF:-1 tvg-id="NEXXOTV" tvg-logo="https://i.postimg.cc/1zjLkXz0/nisibonneetv.png" group-title="NOTICIAS",RD (720p)
+https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
 
 
 
+#EXTINF:-1 tvg-id="DTV BONAO" tvg-logo="https://i.postimg.cc/1zjLkXz0/nisibonneetv.png" group-title="NOTICIAS",RD (720p)
+https://s.emisoras.tv:8081/dtv/index.m3u8
 
 
 
-
-
-#EXTM3U
-#EXTINF:-1, LATINOS NY TV "[url=https://ibb.co/yF1HnYPY][img]https://i.ibb.co/yF1HnYPY/nisibonneetv.png[/img][/url]",
-https://5790d294af2dc.streamlock.net:443/latinostv/latinostv/playlist.m3u8
+#EXTINF:-1 tvg-id="CROM TV" tvg-logo="https://i.postimg.cc/1zjLkXz0/nisibonneetv.png" group-title="NOTICIAS",RD (720p)
+https://cnn.essastream.com:3333/live/cromtvlive.m3u8
 
 
 
+#EXTINF:-1 tvg-id="CANAL 26 LA VEGA" tvg-logo="https://i.postimg.cc/1zjLkXz0/nisibonneetv.png" group-title="NOTICIAS",RD (720p)
+http://rdn.essastream.com/p/3400/live/canal18hdlive.m3u8
 
 
-#EXTM3U
-#EXTINF:-1, IDEAL TV
-https://live.idealtvrd.com/livelan/stream.m3u8
-
-
-#EXTM3U
-#EXTINF:-1,LATINA INTERNACIÓN 14 TV "[url=https://ibb.co/yF1HnYPY][img]https://i.ibb.co/yF1HnYPY/nisibonneetv.png[/img][/url]",
-https://5790d294af2dc.streamlock.net/latinatv/latinatv/playlist.m3u8
+#EXTINF:-1 tvg-id="SIEMBRA TV" tvg-logo="https://i.postimg.cc/1zjLkXz0/nisibonneetv.png" group-title="NOTICIAS",RD (720p)
+https://streamunoapp.com:3809/live/siembratvlive.m3u8
 
 
 
-#EXTM3U
-#EXTINF:-1, FARO VISION "[url=https://ibb.co/yF1HnYPY][img]https://i.ibb.co/yF1HnYPY/nisibonneetv.png[/img][/url]",
+#EXTINF:-1 tvg-id="FARO VISION" tvg-logo="https://i.postimg.cc/1zjLkXz0/nisibonneetv.png" group-title="NOTICIAS",RD (720p)
 https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8
 
 
 
 
+#EXTINF:-1 tvg-id="GODECTV" tvg-logo="https://i.postimg.cc/1zjLkXz0/nisibonneetv.png" group-title="NOTICIAS",RD (720p)
+https://5790d294af2dc.streamlock.net/Infoatvhd/Infoatvhd/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="LATINA INTERNACIONAL" tvg-logo="https://i.postimg.cc/1zjLkXz0/nisibonneetv.png" group-title="NOTICIAS",RD (720p)
+https://5790d294af2dc.streamlock.net/latinatv/latinatv/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="LUNATV" tvg-logo="https://i.postimg.cc/1zjLkXz0/nisibonneetv.png" group-title="NOTICIAS",RD (720p)
+https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8
+
+
+
+#EXTINF:-1 tvg-id="TELE ALTURA" tvg-logo="https://i.postimg.cc/1zjLkXz0/nisibonneetv.png" group-title="NOTICIAS",RD (720p)
+https://live20.bozztv.com/akamaissh101/ssh101/codificador7/chunks.m3u8
+
+
+
+#EXTINF:-1 tvg-id="MULTIVISIO HD" tvg-logo="https://i.postimg.cc/yN4fcRWh/nisibonneetv.png" group-title="NOTICIAS",RD (720p)
+rtmp://ssh101.bozztv.com:1935/ssh101/canalmulti24
 
 
 
 
 
-#EXTM3U
-#EXTINF:-1,SIEMBRA TV
-https://streamunoapp.com:3809/live/siembratvlive.m3u8
 
 
 
@@ -77,77 +115,20 @@ https://streamunoapp.com:3809/live/siembratvlive.m3u8
 
 
 
-#EXTM3U
-#EXTINF:-1, CANAL 26 LA VEGA "[url=https://ibb.co/yF1HnYPY][img]https://i.ibb.co/yF1HnYPY/nisibonneetv.png[/img][/url]",
-http://rdn.essastream.com/p/3400/live/canal18hdlive.m3u8
 
 
 
 
-#EXTM3U
-#EXTINF:-1, CROM TV "[url=https://ibb.co/yF1HnYPY][img]https://i.ibb.co/yF1HnYPY/nisibonneetv.png[/img][/url]",
-https://cnn.essastream.com:3333/live/cromtvlive.m3u8
 
 
 
 
-#EXTM3U
-#EXTINF:-1, DTV BONAO "[url=https://ibb.co/yF1HnYPY][img]https://i.ibb.co/yF1HnYPY/nisibonneetv.png[/img][/url]",
-https://s.emisoras.tv:8081/dtv/index.m3u8
 
 
 
 
-#EXTM3U
-#EXTINF:-1, NEXXO TV "[url=https://ibb.co/yF1HnYPY][img]https://i.ibb.co/yF1HnYPY/nisibonneetv.png[/img][/url]",
-https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
 
 
-#EXTM3U
-#EXTINF:-1, PULSO VISION "[url=https://ibb.co/yF1HnYPY][img]https://i.ibb.co/yF1HnYPY/nisibonneetv.png[/img][/url]",
-https://5790d294af2dc.streamlock.net:443/pulsovision/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="LATINOS NY TV" tvg-logo="[url=https://ibb.co/yF1HnYPY][img]https://i.ibb.co/yF1HnYPY/nisibonneetv.png[/img][/url]"," group-title="General", (NISIBONNET)
-https://5790d294af2dc.streamlock.net:443/latinostv/latinostv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Telemicro.do" "[url=https://ibb.co/yF1HnYPY][img]https://i.ibb.co/yF1HnYPY/nisibonneetv.png[/img][/url]"," group-title="NOTICIAS",Telemicro (DIGITAL CONEXIONTV)
-http://51.81.93.239:8084/hls/tmicro.m3u8
-
-#EXTINF:-1 tvg-id="ZTV.do" tvg-logo="[url=https://ibb.co/yF1HnYPY][img]https://i.ibb.co/yF1HnYPY/nisibonneetv.png[/img][/url]", group-title="NOTICIAS",ZTV (720p) [No 24/7 ]
-https://lb00zdigital.streamprolive.com/mnt/hls/live.m3u8
-
-#EXTINF:-1 tvg-id="ANTENA LATINA 7" tvg-logo="" group-title="NOTICIAS",ANTENA 7 TV RD(DIGITA
-https://alba-do-antena7-antena7.stream.mediatiquestream.com/index.m3u8
-
-#EXTINF:-1 tvg-id="Bellavision.do" tvg-logo="https://i.imgur.com/XqQ3kCs.png" group-title="",Bellavision (DIGITAL CONEXIONTV)
-https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8
-
-#EXTINF:-1 tvg-id="colorvision" tvg-logo="https://colorvision.com.do/wp-content/uploads/cropped-canal-9-colorvision-republica-dominicana-32x32.png" group-title="829-7816971",colorvision (1080p)
-https://f.gmsiptv.com/memfs/400c208a-389d-45f1-837e-fcb52dd477e2.m3u8
-#EXTINF:-1 tvg-id="ALLENTV RD" tvg-logo="http://imgfz.com/i/zWIDR3K.png" group-title="NOTICIAS",ALLENTV RD(DIGITAL CONEXIONTV)
-https://ssh101-fl.bozztv.com/ssh101/atvcanal22/playlist.m3u8
-#EXTINF:-1 tvg-id="TELESISTEMA 11 RD" tvg-logo="https://logopond.com/logos/c3966093ee94ae75a6f65778327bf70c.png" group-title="NOTICIAS",TELESISTEMA RD(DIGITAL CONEXIONTV 829-7816971)
-https://f.gmsiptv.com/memfs/19b4d941-b056-48bb-85c1-97423f9f7da9.m3u8
-#EXTINF:-1 tvg-id="Boreal.do" tvg-logo="https://i.imgur.com/KSquHTG.png" group-title="Sin definir",Boreal (720p)
-https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
-#EXTINF:-1 tvg-id="TELECENTRO CANAL 13" tvg-logo="https://i.imgur.com/FZUQ2WP.png" group-title="NOTICIAS",TELECENTRO 13 (480p)
-https://f.gmsiptv.com/memfs/8048dafa-40eb-4068-b8cc-44278899677e.m3u8
-#EXTINF:-1 tvg-id="NISIBONTV" tvg-logo="https://i.imgur.com/DSWrKyb.png" group-title="NOTICIAS",NISIBONTV (CONEXIONTV)
-https://5790d294af2dc.streamlock.net:443/nisibontv/nisibontv/playlist.m3u8
-#EXTINF:-1 tvg-id="Digital15.do" tvg-logo="https://i.imgur.com/v3mkmZa.png" group-title="Sin definir",Digital 15 (480p)
-http://51.81.93.29:8084/hls/d15.m3u8
-#EXTINF:-1 tvg-id="WAPA DEPORTE" tvg-logo="https://i.ibb.co/FKQ6gCN/LOGO-WAPA-DEPORTES-02-INS.jpg" group-title="DEPORTE",WAPA DEPORTE  (DIGITAL CONEXIONTV)
-https://live.field59.com/wapa/wapa2/playlist.m3u8
-#EXTINF:-1 tvg-id="COCOTV.do" tvg-logo="https://i.imgur.com/CnAc7jU.png" group-title="Entretenimiento",COCO TV (720p)
-https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
-#EXTINF:-1 tvg-id="TVLuz.do" tvg-logo="https://i.imgur.com/FZUQ2WP.png" group-title="Sin definir",TV Luz (480p)
-https://rdn.essastream.com:3307/live/tvluzlive.m3u8
-#EXTINF:-1 tvg-id="MakaoTV.do" tvg-logo="https://i.imgur.com/asD5y7i.png" group-title="Sin definir",Makao TV (360p)
-https://live.obslivestream.com/makaomux/tracks-v2a1/playlist.m3u8
-#EXTINF:-1 tvg-id="Telefuturo.do" tvg-logo="https://i.imgur.com/QpnctoU.png" group-title="Sin definir",Telefuturo (1080p)
-https://ss9.domint.net:3054/tf_str/telefuturo/playlist.m3u8
-#EXTINF:-1 tvg-id="Antena21 RD" tvg-logo="http://imgfz.com/i/M9YNFlw.png" group-title="NOTICIAS",antena21 RD(DIGITAL CONEXIONTV)
-https://ssh101-fl.bozztv.com/ssh101/rctvhd21/index.m3u8
 #EXTINF:-1 tvg-id="MAKINA TV RD" tvg-logo="http://imgfz.com/i/aiPInXw.png" group-title="General",MAKINA TV RD(DIGITAL CONEXIONTV)
 https://cdn5.streamgato.us:3059/live/maquinatvlive.m3u8
 #EXTINF:-1 tvg-id="TVDaja.do" tvg-logo="https://dajatv.com/wp-content/uploads/2021/09/logo_daja_2.png" group-title="Sin definir",TV Daja (DIGITAL CONEXIONTV)
