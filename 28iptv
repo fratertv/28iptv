@@ -2,20 +2,20 @@
 
 
 https://ibb.co/Lh1PB6NT
-#EXTINF:-1 tvg-id="GODECTV" tvg-name="GODECTV" tvg-logo="https://i.postimg.cc/1zjLkXz0/nisibonneetv.png", GODECTV
+#EXTINF:-1 tvg-id="GODECTV" tvg-name="GODECTV" tvg-logo="https://i.postimg.cc/yN4fcRWh/nisibonneetv.png", GODECTV
 https://5790d294af2dc.streamlock.net/Infoatvhd/Infoatvhd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DEL PUEBLO MEDIA" tvg-name="DEL PUEBLO MEDIA"https://i.postimg.cc/1zjLkXz0/nisibonneetv.png", delpueblo media
+#EXTINF:-1 tvg-id="DEL PUEBLO MEDIA" tvg-name="DEL PUEBLO MEDIA"https://i.postimg.cc/yN4fcRWh/nisibonneetv.png", delpueblo media
 http://vdopanel.jlahozconsulting.com/p/3869/hybrid/play.m3u8
 
 #EXTM3U
 #EXTINF:-1,R&E TELEVISIÓN "https://i.postimg.cc/1zjLkXz0/nisibonneetv.png",
 https://live.ryetv.net/livelan/stream.m3u8
 
-#EXTINF:-1 tvg-id="LUNATV"https://i.postimg.cc/1zjLkXz0/nisibonneetv.png" group-TV="NOTICIAS",LUNATV (480p)
+#EXTINF:-1 tvg-id="LUNATV"https://i.postimg.cc/yN4fcRWh/nisibonneetv.png" group-TV="NOTICIAS",LUNATV (480p)
 https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8
 #EXTM3U
-#EXTINF:-1,TELEPROYECTO "[url=https://ibb.co/yF1HnYPY][img]https://i.ibb.co/yF1HnYPY/nisibonneetv.png[/img][/url]",
+#EXTINF:-1,TELEPROYECTO "https://i.postimg.cc/yN4fcRWh/nisibonneetv.png",
 https://5790d294af2dc.streamlock.net:443/Teleproyecto/Teleproyecto/playlist.m3u8
 
 #EXTINF:-1 tvg-id="[url=https://ibb.co/yF1HnYPY][img]https://i.ibb.co/yF1HnYPY/nisibonneetv.png[/img][/url]"," group-title="NOTICIAS",TV Higuey Digital (DIGITAL CONEXIONTV)
