@@ -848,10 +848,8 @@ https://vod2.abn.co.kr/IPHONE/abn.m3u8
 https://mediaserver.abnvideos.com/streams/abntvindia.m3u8
 #EXTINF:-1 tvg-id="ABNUrdu.us" tvg-logo="https://i.imgur.com/Y9ScPIl.png" group-title="Religious",ABN Urdu (540p)
 https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
-#EXTINF:-1 tvg-id="ABNsat.iq" tvg-logo="https://i.imgur.com/WhPlJzh.jpeg" group-title="Religious",ABNsat (720p)
+#EXTINF:-1 tvg-id="ABNsat.iq" tvg-logo="https://ibb.co/yF1HnYPY" group-title="Religious",ABNsat (720p)
 https://n8.dramaticreadings.com:7066/hls/espn1.m3u8?md5=TYPIZAgK_l3iPwK7gIwPNA&expires=1718338629
-
-
 
 
 
