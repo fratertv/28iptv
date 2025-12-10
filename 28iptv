@@ -13,8 +13,8 @@ https://live20.bozztv.com/akamaissh101/ssh101/canalmulti24/chunks.m3u8
 https://5790d294af2dc.streamlock.net:443/latinostv/latinostv/playlist.m3u8
 #EXTINF:-1 tvg-id="ANTENA LATINA" tvg-logo="https://i.postimg.cc/1zjLkXz0/nisibonneetv.png" group-title="NOTICIAS",RD (720p)
 https://alba-do-antena7-antena7.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-id="GODECTV" tvg-logo="https://i.postimg.cc/1zjLkXz0/nisibonneetv.png" group-title="NOTICIAS",RD (720p)
-https://5790d294af2dc.streamlock.net/Infoatvhd/Infoatvhd/playlist.m3u8
+#EXTINF:-1 tvg-id="DELPUEBLOMEDIA" tvg-logo="https://i.postimg.cc/1zjLkXz0/nisibonneetv.png" group-title="NOTICIAS",RD (720p)
+http://vdopanel.jlahozconsulting.com/p/3869/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="BELLA VISION" tvg-logo="https://i.postimg.cc/1zjLkXz0/nisibonneetv.png" group-title="NOTICIAS",RD (720p)
 https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8
 #EXTINF:-1 tvg-id="GODECTV" tvg-logo="https://i.postimg.cc/1zjLkXz0/nisibonneetv.png" group-title="NOTICIAS",RD (720p)
