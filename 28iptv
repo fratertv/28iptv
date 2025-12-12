@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="GODECTV" tvg-logo="https://i.postimg.cc/yN4fcRWh/nisibonneetv.png" group-title="NOTICIAS",RD (720p)
 https://5790d294af2dc.streamlock.net/Infoatvhd/Infoatvhd/playlist.m3u8
 #EXTINF:-1 tvg-id="RYE TELEVISION" tvg-logo="https://i.postimg.cc/yN4fcRWh/nisibonneetv.png" group-title="NOTICIAS",RD (720p)
@@ -81,6 +82,73 @@ https://live.enhdtv.com:8081/8150/index.m3u8
 https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
 #EXTINF:-1 tvg-id="VillaAltagraciaTV.do@SD" tvg-logo="https://i.imgur.com/uQAeKKa.png" group-title="General",VillaAltagracia TV
 https://inliveserver.com:1936/10016/10016/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="TELEDOMINICANAL 42" tvg-logo="https://i.postimg.cc/yN4fcRWh/nisibonneetv.png" group-title="NOTICIAS",RD (720p)
+http://vdopanel.jlahozconsulting.com/p/3417/hybrid/play.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="TELEDOMINICANAL 42" tvg-logo="https://i.postimg.cc/yN4fcRWh/nisibonneetv.png" group-title="NOTICIAS",RD (720p)
+http://vdopanel.jlahozconsulting.com/p/3417/hybrid/play.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="TELEDOMINICANAL 42" tvg-logo="https://i.postimg.cc/yN4fcRWh/nisibonneetv.png" group-title="NOTICIAS",RD (720p)
+http://vdopanel.jlahozconsulting.com/p/3417/hybrid/play.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="TELEDOMINICANAL 42" tvg-logo="https://i.postimg.cc/yN4fcRWh/nisibonneetv.png" group-title="NOTICIAS",RD (720p)
+http://vdopanel.jlahozconsulting.com/p/3417/hybrid/play.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="TELEDOMINICANAL 42" tvg-logo="https://i.postimg.cc/yN4fcRWh/nisibonneetv.png" group-title="NOTICIAS",RD (720p)
+http://vdopanel.jlahozconsulting.com/p/3417/hybrid/play.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="TELEDOMINICANAL 42" tvg-logo="https://i.postimg.cc/yN4fcRWh/nisibonneetv.png" group-title="NOTICIAS",RD (720p)
+http://vdopanel.jlahozconsulting.com/p/3417/hybrid/play.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="TELEDOMINICANAL 42" tvg-logo="https://i.postimg.cc/yN4fcRWh/nisibonneetv.png" group-title="NOTICIAS",RD (720p)
+http://vdopanel.jlahozconsulting.com/p/3417/hybrid/play.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="TELEDOMINICANAL 42" tvg-logo="https://i.postimg.cc/yN4fcRWh/nisibonneetv.png" group-title="NOTICIAS",RD (720p)
+http://vdopanel.jlahozconsulting.com/p/3417/hybrid/play.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="TELEDOMINICANAL 42" tvg-logo="https://i.postimg.cc/yN4fcRWh/nisibonneetv.png" group-title="NOTICIAS",RD (720p)
+http://vdopanel.jlahozconsulting.com/p/3417/hybrid/play.m3u8
+
 
 
 
