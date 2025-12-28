@@ -9,7 +9,38 @@ http://vdopanel.jlahozconsulting.com/p/3869/hybrid/play.m3u8
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4w9RA9D.png" group-title="RD" 114,RD Vallevision
 https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
+#EXTINF:-1 tvg-id="CCV DIGITAL" tvg-logo="https://www.ccvdigital.com/assets/og.jpg" group-title="NISIBONNET",CCV DIGITAL
+https://eu1.servers10.com:8081/8128/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="DIGITAL 15" tvg-logo="" group-title="NISIBONNET"DIGITAL15
+https://u.tvabierta.net/memfs/5a1b442b-1d43-4eab-aa7c-8d3ea3382c78_output_0.m3u8?session=apfcDSXDjxQTEoPhb9t8zy3iGqPS8CPcNdeUUBkJSq5OMsYqsPrELvuw1Y33eimt8kUMFQwVKbp94qpLrSWwldw154WD00iISDzfPrg&dmTs=340793&dmV1st=d8fcb431-9727-42a7-8ff7-52dcb44c3906
+
+#EXTINF:-1 tvg-id="TELESISTEMA 11" tvg-logo="" group-title="NISIBONNET",TELESISTEMA 11
+https://u.tvabierta.net/memfs/e5ce4485-ee3c-4b68-829d-cbad8230ee68_output_0.m3u8?session=TKYaugEaD5oJSm4Lrgaqhn
+
+#EXTINF:-1 tvg-id="Canal4RD.do" tvg-logo="https://i.imgur.com/eiqpffH.png" group-title="NISIBONNET",Canal 4 RD
+https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CieloTV.do" tvg-logo="https://i.imgur.com/2PNw6BA.png" group-title="NISIBONNET",Cielo TV
+https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ADOCCOTV.do" tvg-logo="https://i.imgur.com/kuv6S3j.png" group-title="Business;Legislative;News",
+https://u.tvabierta.net/memfs/bfcf3849-a054-4b72-b731-e9d76192a74f_output_0.m3u8?session=bz4brWJKJYYVjkiuCYLYEW
+
+#EXTINF:-1 tvg-id="Bellavision.do" tvg-logo="https://i.imgur.com/XqQ3kCs.png" group-title="Entertainment",Bellavision
+https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8
+
+#EXTINF:-1 tvg-id="Agenda56TV.do" tvg-logo="https://i.imgur.com/G7zIVB7.png" group-title="General",Agenda 56 TV
+https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8
+
+#EXTINF:-1 tvg-id="AhoraTV.do" tvg-logo="https://i.imgur.com/dyJyuXc.png" group-title="General",Ahora TV
+https://tv.livestreaminggroup.info:3513/live/canal35live.m3u8
+
+#EXTINF:-1 tvg-id="AIONTV.do" tvg-logo="https://i.imgur.com/DBvm7YS.png" group-title="General",AION TV
+https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8
+
+#EXTINF:-1 tvg-id="PUNTA CANA TV" tvg-logo="https://image.roku.com/developer_channels/prod/7bf8e7724078a4f621cefd92b545b8c57fd05f0af55106258515316c41cdf5e9.png" group-title="Entertainment",PUNTACANA TV
+https://rdn.essastream.com:3544/live/puntacanatvlive.m3u8
 
 #EXTINF:-1 tvg-id="TELE PROYECTO" tvg-logo="https://i.postimg.cc/yN4fcRWh/nisibonneetv.png" group-title="NOTICIAS",TELE PROYECTO-(4)
 https://5790d294af2dc.streamlock.net:443/Teleproyecto/Teleproyecto/playlist.m3u8
