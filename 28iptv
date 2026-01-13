@@ -15,8 +15,8 @@ https://eu1.servers10.com:8081/8128/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="COLORVISION" tvg-logo="" group-title="NISIBONNET"COLOR VISION
 http://190.110.36.254/COLORVISION/index.m3u8
 
-#EXTINF:-1 tvg-id="TELESISTEMA 11" tvg-logo="" group-title="NISIBONNET",TELESISTEMA 11
-https://u.tvabierta.net/memfs/e5ce4485-ee3c-4b68-829d-cbad8230ee68_output_0.m3u8?session=TKYaugEaD5oJSm4Lrgaqhn
+#EXTINF:-1 tvg-id="ENTUNOTV" tvg-logo="" group-title="NISIBONNET",ENTUNOTV
+https://soportedvb.click:3891/live/visionndvlive.m3u8
 
 #EXTINF:-1 tvg-id="Canal4RD.do" tvg-logo="https://i.imgur.com/eiqpffH.png" group-title="NISIBONNET",Canal 4 RD
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
