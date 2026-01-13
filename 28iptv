@@ -12,8 +12,8 @@ https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
 #EXTINF:-1 tvg-id="CCV DIGITAL" tvg-logo="https://www.ccvdigital.com/assets/og.jpg" group-title="NISIBONNET",CCV DIGITAL
 https://eu1.servers10.com:8081/8128/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="DIGITAL 15" tvg-logo="" group-title="NISIBONNET"DIGITAL15
-https://www.youtube.com/watch?v=PXuL7JMdb6E
+#EXTINF:-1 tvg-id="COLORVISION" tvg-logo="" group-title="NISIBONNET"COLOR VISION
+http://190.110.36.254/COLORVISION/index.m3u8
 
 #EXTINF:-1 tvg-id="TELESISTEMA 11" tvg-logo="" group-title="NISIBONNET",TELESISTEMA 11
 https://u.tvabierta.net/memfs/e5ce4485-ee3c-4b68-829d-cbad8230ee68_output_0.m3u8?session=TKYaugEaD5oJSm4Lrgaqhn
