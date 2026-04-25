@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="COTUBANAMA" tvg-logo="https://i.postimg.cc/yN4fcRWh/nisibonneetv.png" group-title="NOTICIAS",COTUBANAMA CANAL-(1)
 https://host.streamingnation.live/p/3588/live/cotubanamatelevisionlive.m3u8
-#EXTINF:-1 tvg-id="Este es el viviente TV" tvg-logo="https://i.postimg.cc/yN4fcRWh/nisibonneetv.png" group-title="RELIGIOSO",RD (720p)
+#EXTINF:-1 tvg-id="Este es el viviente TV" tvg-logo="https://i.postimg.cc/yN4fcRWh/nisibonneetv.png" group-title="RELIGIOSO",el viviente TV)
 https://host.streamingnation.live/p/3968/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="DELPUEBLO MEDIA" tvg-logo="https://i.postimg.cc/yN4fcRWh/nisibonneetv.png" group-title="NOTICIAS",DELPUEBLO MEDIA CANAL-(3)
 http://vdopanel.jlahozconsulting.com/p/3869/hybrid/play.m3u8
