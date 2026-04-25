@@ -19,8 +19,8 @@ https://eu1.servers10.com:8081/8128/tracks-v1a1/mono.m3u8
 https://host.streamingnation.live/p/3940/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="VISION NDV tvg-logo="" group-title="NISIBONNET",VISION NDV
 https://soportedvb.click:3891/live/visionndvlive.m3u8
-#EXTINF:-1 tvg-id="BELLA VISION" tvg-logo="https://i.postimg.cc/1zjLkXz0/nisibonneetv.png" group-title="NOTICIAS",RD (720p)
-https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8
+#EXTINF:-1 tvg-id="LATINO NY TV" tvg-logo="https://i.postimg.cc/1zjLkXz0/nisibonneetv.png" group-title="NOTICIAS",LATINO NY TV-(6)
+https://5790d294af2dc.streamlock.net:443/latinostv/latinostv/playlist.m3u8
 #EXTINF:-1 tvg-id="PULSO VISION" tvg-logo="https://i.postimg.cc/1zjLkXz0/nisibonneetv.png" group-title="NOTICIAS",RD (720p)
 https://5790d294af2dc.streamlock.net:443/pulsovision/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Agenda56TV.do" tvg-logo="https://i.imgur.com/G7zIVB7.png" group-title="General",Agenda 56 TV
@@ -33,8 +33,12 @@ https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8
 https://rdn.essastream.com:3544/live/puntacanatvlive.m3u8
 #EXTINF:-1 tvg-id="TELE PROYECTO" tvg-logo="https://i.postimg.cc/yN4fcRWh/nisibonneetv.png" group-title="NOTICIAS",TELE PROYECTO-(4)
 https://5790d294af2dc.streamlock.net:443/Teleproyecto/Teleproyecto/playlist.m3u8
-
-
+#EXTINF:-1 tvg-id="DEPORTE" tvg-logo="https://i.ibb.co/KrQXtjX/logo-conexiontv.jpg" group-title="DEPORTE",DEPORT HD (720p) [No 24/7 ]
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+#EXTINF:-1 tvg-id="VTVCanal32.do" tvg-logo="https://i.imgur.com/qjm4B0J.png" group-title="General",VTV Canal 32 (1080p)
+https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8
+#EXTINF:-1 tvg-id="TELEMUNDO" tvg-logo="https://i.ibb.co/FKQ6gCN/LOGO-WAPA-DEPORTES-02-INS.jpg" group-title="DEPORTE",TELEMUNDO  (DIGITAL CONEXIONTV)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
 #EXTINF:-1 tvg-id="ADOCCOTV.do" tvg-logo="https://i.imgur.com/kuv6S3j.png" group-title="Business;Legislative;News",
 https://u.tvabierta.net/memfs/bfcf3849-a054-4b72-b731-e9d76192a74f_output_0.m3u8?session=bz4brWJKJYYVjkiuCYLYEW
@@ -50,8 +54,7 @@ https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8
 
 #EXTINF:-1 tvg-id="MULTI VISION" tvg-logo="https://i.postimg.cc/yN4fcRWh/nisibonneetv.png" group-title="NOTICIAS",MULTI VISION-(5)
 https://live20.bozztv.com/akamaissh101/ssh101/canalmulti24/chunks.m3u8
-#EXTINF:-1 tvg-id="LATINO NY TV" tvg-logo="https://i.postimg.cc/1zjLkXz0/nisibonneetv.png" group-title="NOTICIAS",LATINO NY TV-(6)
-https://5790d294af2dc.streamlock.net:443/latinostv/latinostv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="GODECTV" tvg-logo="https://i.postimg.cc/1zjLkXz0/nisibonneetv.png" group-title="NOTICIAS",RD (720p)
 https://5790d294af2dc.streamlock.net/Infoatvhd/Infoatvhd/playlist.m3u8
@@ -63,8 +66,7 @@ http://190.110.36.254/TELEFUTURO/index.m3u8
 https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
 #EXTINF:-1 tvg-id="COCOTV.do" tvg-logo="https://i.imgur.com/CnAc7jU.png" group-title="Entretenimiento",COCO TV (720p)
 https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
-#EXTINF:-1 tvg-id="MakaoTV.do" tvg-logo="https://i.imgur.com/asD5y7i.png" group-title="Sin definir",Makao TV (360p)
-https://live.obslivestream.com/makaomux/tracks-v2a1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Antena21 RD" tvg-logo="http://imgfz.com/i/M9YNFlw.png" group-title="NOTICIAS",antena21 RD(DIGITAL CONEXIONTV)
 https://ssh101-fl.bozztv.com/ssh101/rctvhd21/index.m3u8
 #EXTINF:-1 tvg-id="Telefuturo.do" tvg-logo="https://i.imgur.com/QpnctoU.png" group-title="Sin definir",Telefuturo (1080p)
@@ -565,8 +567,7 @@ https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8
 https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8
 #EXTINF:-1 tvg-id="Carivision.do" tvg-logo="https://i.imgur.com/XjGb2UM.png" group-title="Sin definir",Carivision (1080p)
 https://ss5.domint.net:3174/car_str/carivision/playlist.m3u8
-#EXTINF:-1 tvg-id="TELEMUNDO" tvg-logo="https://i.ibb.co/FKQ6gCN/LOGO-WAPA-DEPORTES-02-INS.jpg" group-title="DEPORTE",TELEMUNDO  (DIGITAL CONEXIONTV)
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
 #EXTINF:-1 tvg-id="ACSNetwork.pr" tvg-logo="https://i.imgur.com/7aIab2r.png" group-title="Entertainment",ACS Network
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 
@@ -1143,107 +1144,12 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/9b8beac9026c450fb81ed895539c4665/i
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/1b6bbade53634f5a847b953c9adfd102/index.m3u8
 #EXTINF:-1 tvg-id="UCL.uy" tvg-logo="https://i.imgur.com/BzQphbw.png" group-title="Sin definir",UCL (720p)
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
-#EXTINF:-1 tvg-id="UnivisionPanregional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/512px-Logo_Univision_2019.svg.png " group-title="Indefinido",Univision Panregional (576p)
-https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="VegaTeve.do" tvg-logo="https://i.imgur.com/jiyMOZx.png" group-title="Sin definir",VegaTeve (1080p) [No 24 horas al día, 7 días a la semana ]
-https://kali.vdopanel.com:3396/live/arseniolive.m3u8
-#EXTINF:-1 tvg-id="VegavisionCanal18.do" tvg-logo="https://i.imgur.com/352jxnd.png" group-title="General",Vegavisión Canal 18 (720p)
-https://rdn.essastream.com:3400/live/canal18hdlive.m3u8
-#EXTINF:-1 tvg-id="VPItv.ve" tvg-logo="https://i.imgur.com/X5hyKU8.png" group-title="Noticias",VPItv (1080p)
-https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
-#EXTINF:-1 tvg-id="VTVCanal32.do" tvg-logo="https://i.imgur.com/qjm4B0J.png" group-title="General",VTV Canal 32 (1080p)
-https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8
-#EXTINF:-1 tvg-id="Yunavision.do" tvg-logo="https://i.imgur.com/YjceEv5.png" group-title="Sin definir",Yunavisión (720p)
-https://ss9.domint.net:3036/yv_str/yunavision/playlist.m3u8
-#EXTINF:-1 tvg-id="Zol106.do" tvg-logo="https://i.imgur.com/xz4LQoD.png" group-title="Sin definir",Zol106 (720p) [No 24/7 ]
-https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8
-#EXTINF:-1 tvg-id="DEPORTE" tvg-logo="https://i.ibb.co/KrQXtjX/logo-conexiontv.jpg" group-title="DEPORTE",DEPORT HD (720p) [No 24/7 ]
-https://thm-it-roku.otteravision.com/thm/it/it.m3u8
-#EXTINF:-1 tvg-id="DEPORTE" tvg-logo="https://i.ibb.co/KrQXtjX/logo-conexiontv.jpg" group-title="DEPORTE",DEPORT HD (720p) [No 24/7 ]
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1 tvg-id="FOX DEPORTE" tvg-logo="https://i.ibb.co/KrQXtjX/logo-conexiontv.jpg" group-title="DEPORTE",DEPORT HD (720p) [No 24/7 ]
-https://lnc-fox-sports-espanol2.tubi.video/index.m3u8
-#EXTINF:-1 tvg-id="TELENOVELA" tvg-logo="https://i.imgur.com/eiqpffH.png" group-title="NOVELA",TELENOVELA (DIGITAL CONEXIONTV)
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f914f9dccb4de0007df8bc4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e057886-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d7eaddd1-d723-4144-822d-b65de1267e5e&serverSideAds=false
-#EXTINF:-1 tvg-id="TELENOVELA" tvg-logo="https://i.imgur.com/eiqpffH.png" group-title="NOVELA",TV Y NOVELA (DIGITAL CONEXIONTV)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="ANIMADOTV" tvg-logo="https://i.imgur.com/eiqpffH.png" group-title="General",ANIMERD (DIGITAL CONEXIONTV)
-#EXTINF: -1, CARTOONNETWORT de TV 1
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="ACSNetwork.pr" tvg-logo="http://imgfz.com/i/wSxjbVX.png"Entertainment](http://imgfz.com/i/KwFcIpb.png
-)",ACS Network
-https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
-#EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="http://imgfz.com/i/wSxjbVX.png" group-title="News",ADN 40
-#EXTINF:-1 tvg-id="Antena21.do" tvg-logo="http://imgfz.com/i/KwFcIpb.png
-" group-title="News",Antena 21
-https://d1841z6ti5nz2v.cloudfront.net/Canal21DO/f260159f04ed124e08b9ee0364dd4ca7.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="Antena7.do" tvg-logo="http://imgfz.com/i/KwFcIpb.png
-" group-title="",Antena 7
-https://d1841z6ti5nz2v.cloudfront.net/Antena7DO/34cdaa501a0217ea217d8f4f083c1728.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="AntenaTV.mx" tvg-logo="http://imgfz.com/i/KwFcIpb.png
-" group-title="General",Antena TV
-https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8
-#EXTINF:-1 tvg-id="ATNTelevision.co" tvg-logo="http://imgfz.com/i/KwFcIpb.png
-" group-title="",ATN Television
-https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
-#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="General",Azteca Uno
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-#EXTINF:-1 tvg-id="CinevisionCanal19.do" tvg-logo="https://i.imgur.com/mJN2XNm.png" group-title="General",Cinevision Canal 19
-https://live.teledom.info:3713/live/cinevisionlive.m3u8
-#EXTINF:-1 tvg-id="ClaroTelevisionDominicana.do" tvg-logo="https://i.imgur.com/fJD7OxB.png" group-title="General",Claro Television Dominicana
-https://vsrv2.az-streamingserver.com:3960/live/claroteledomlive.m3u8
-#EXTINF:-1 tvg-id="LaCaletaTV.do" tvg-logo="http://imgfz.com/i/wSxjbVX.png" group-title="",La Caleta TV
-https://rdn.essastream.com:3168/live/lacaletatvlive.m3u8
-#EXTINF:-1 tvg-id="ABCNewsLive10.us" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png" group-title="News",ABC News Live 10 (720p)
-https://abcnews-streams.akamaized.net/hls/live/2023569/abcnews10/master.m3u8
-#EXTINF:-1 tvg-id="WABCDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/512px-WABC_TV_New_2021.svg.png" group-title="Undefined",ABC News New York NY (WABC-TV) (720p)
-https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
-#EXTINF:-1 tvg-id="ABCTVSA.au" tvg-logo="https://i.imgur.com/Ekjb7w8.png" group-title="General",ABC TV Adelaide (720p)
-https://c.mjh.nz/abc-sa.m3u8
-#EXTINF:-1 tvg-id="ABCTVQLD.au" tvg-logo="https://i.imgur.com/Ekjb7w8.png" group-title="General",ABC TV Brisbane (720p)
-https://c.mjh.nz/abc-qld.m3u8
-#EXTINF:-1 tvg-id="ABCTVACT.au" tvg-logo="https://i.imgur.com/Puq8t7f.png" group-title="General",ABC TV Canberra (720p)
-https://c.mjh.nz/abc-act.m3u8
-#EXTINF:-1 tvg-id="ABCTVNT.au" tvg-logo="https://i.imgur.com/Ekjb7w8.png" group-title="General",ABC TV Darwin (720p)
-https://c.mjh.nz/abc-nt.m3u8
-#EXTINF:-1 tvg-id="ABCTVTAS.au" tvg-logo="https://i.imgur.com/Ekjb7w8.png" group-title="General",ABC TV Hobart (720p)
-https://c.mjh.nz/abc-tas.m3u8
-#EXTINF:-1 tvg-id="ABCTVVIC.au" tvg-logo="https://i.imgur.com/Ekjb7w8.png" group-title="General",ABC TV Melbourne (720p)
-https://c.mjh.nz/abc-vic.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",ABC TV News (YouTube) (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UCPW-5qfYGNR8XYrvESrqJKA.m3u8
-#EXTINF:-1 tvg-id="ABCTVWA.au" tvg-logo="https://i.imgur.com/Ekjb7w8.png" group-title="General",ABC TV Perth (720p)
-https://c.mjh.nz/abc-wa.m3u8
-#EXTINF:-1 tvg-id="ABCTVPlusSydney.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/ABC_TV_Plus_logo_2021.svg/512px-ABC_TV_Plus_logo_2021.svg.png" group-title="Entertainment",ABC TV Plus (720p)
-https://c.mjh.nz/abc-tv-plus.m3u8
-#EXTINF:-1 tvg-id="ABCTVNSW.au" tvg-logo="https://i.imgur.com/Ekjb7w8.png" group-title="General",ABC TV Sydney (720p)
-https://c.mjh.nz/abc-nsw.m3u8
-#EXTINF:-1 tvg-id="WWAYDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Undefined",ABC WWAY 3
-https://wway.akamaized.net/hls/live/2029583/wway_ingest/master.m3u8
-#EXTINF:-1 tvg-id="ABCTVParaguay.py" tvg-logo="https://i.imgur.com/OqfBMGy.png" group-title="General",ABC-TV Paraguay (720p)
-https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
-#EXTINF:-1 tvg-id="ABJTV.zw" tvg-logo="https://i.imgur.com/zc2m218.png" group-title="Religious",ABJ TV (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UC82ZYZirnzkJ4Spek8Z8T6w.m3u8
-#EXTINF:-1 tvg-id="ABNAfghanistan.us" tvg-logo="https://i.imgur.com/LI30mAt.png" group-title="Religious",ABN Afghanistan (540p)
-https://rtmp2.abnvideos.com/hls/abnafghanistan.m3u8
-#EXTINF:-1 tvg-id="ABNAfrica.us" tvg-logo="https://yt3.googleusercontent.com/BhFbqwxiQN89UGI2cpoffye2UuKtblDDUwJHce0fzjpdrMkb0CtKf_42ZVTiLX2Ulwbjey4YZQ=s512-c-k-c0x00ffffff-no-rj" group-title="Religious",ABN Africa (480p)
-https://mediaserver.abnvideos.com/streams/abnafrica.m3u8
-#EXTINF:-1 tvg-id="ABNAndhraJyoti.in" tvg-logo="https://i.imgur.com/gcoiZJ3.png" group-title="News",ABN Andhra Jyoti (720p) [Not 24/7]
-https://ythls.armelin.one/channel/UC_2irx_BQR7RsBKmUV9fePQ.m3u8
-#EXTINF:-1 tvg-id="ABN.us" tvg-logo="https://i.imgur.com/CxLugLs.png" group-title="Religious",ABN Aramaic Broadcasting Network (540p)
-https://rtmp2.abnvideos.com/hls/abnsat.m3u8
-#EXTINF:-1 tvg-id="ABNBibleMoviesChannel.us" tvg-logo="https://i.imgur.com/NCqZdaL.png" group-title="Movies;Religious",ABN Bible Movies (720p)
-https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
-#EXTINF:-1 tvg-id="ABNChina.us" tvg-logo="https://i.imgur.com/zagVLQH.png" group-title="Religious",ABN China (720p)
-https://mediaserver.abnvideos.com/streams/abnchina.m3u8
-#EXTINF:-1 tvg-id="ABN.kr" tvg-logo="https://www.abn.co.kr/resources/images/logo.png" group-title="General",ABN TV (720p)
-https://vod2.abn.co.kr/IPHONE/abn.m3u8
-#EXTINF:-1 tvg-id="ABNTVIndia.us" tvg-logo="https://i.imgur.com/VcZn60X.png" group-title="Religious",ABN TV India (540p)
-https://mediaserver.abnvideos.com/streams/abntvindia.m3u8
-#EXTINF:-1 tvg-id="ABNUrdu.us" tvg-logo="https://i.imgur.com/Y9ScPIl.png" group-title="Religious",ABN Urdu (540p)
-https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
-#EXTINF:-1 tvg-id="ABNsat.iq" tvg-logo="https://ibb.co/yF1HnYPY" group-title="Religious",ABNsat (720p)
-https://n8.dramaticreadings.com:7066/hls/espn1.m3u8?md5=TYPIZAgK_l3iPwK7gIwPNA&expires=1718338629
+
+
+
+
+
+
 
 
 
