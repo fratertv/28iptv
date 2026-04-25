@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="COTUBANAMA" tvg-logo="https://i.postimg.cc/yN4fcRWh/nisibonneetv.png" group-title="NOTICIAS",#HIGUEY CANAL-(1)
+#EXTINF:-1 tvg-id="COTUBANAMA" tvg-logo="https://i.postimg.cc/yN4fcRWh/nisibonneetv.png" group-title="NOTICIAS",COTUBANAMA CANAL-(1)
 https://host.streamingnation.live/p/3588/live/cotubanamatelevisionlive.m3u8
-#EXTINF:-1 tvg-id="RYE TELEVISION" tvg-logo="https://i.postimg.cc/yN4fcRWh/nisibonneetv.png" group-title="NOTICIAS",RYE TELEVISION CANAL-(2)
-https://live.ryetv.net/livelan/stream.m3u8
+#EXTINF:-1 tvg-id="Este es el viviente TV" tvg-logo="https://i.postimg.cc/yN4fcRWh/nisibonneetv.png" group-title="RELIGIOSO",RD (720p)
+https://host.streamingnation.live/p/3968/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="DELPUEBLO MEDIA" tvg-logo="https://i.postimg.cc/yN4fcRWh/nisibonneetv.png" group-title="NOTICIAS",DELPUEBLO MEDIA CANAL-(3)
 http://vdopanel.jlahozconsulting.com/p/3869/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="Canal4RD.do" tvg-logo="https://i.imgur.com/eiqpffH.png" group-title="NISIBONNET",Canal 4 RD
@@ -25,10 +25,8 @@ https://soportedvb.click:3891/live/visionndvlive.m3u8
 
 
 
-#EXTINF:-1 tvg-id="CieloTV.do" tvg-logo="https://i.imgur.com/2PNw6BA.png" group-title="NISIBONNET",Cielo TV
-https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8
-#EXTINF:-1 tvg-id="Este es el viviente TV" tvg-logo="https://i.postimg.cc/yN4fcRWh/nisibonneetv.png" group-title="RELIGIOSO",RD (720p)
-https://host.streamingnation.live/p/3968/hybrid/play.m3u8
+
+
 
 #EXTINF:-1 tvg-id="ADOCCOTV.do" tvg-logo="https://i.imgur.com/kuv6S3j.png" group-title="Business;Legislative;News",
 https://u.tvabierta.net/memfs/bfcf3849-a054-4b72-b731-e9d76192a74f_output_0.m3u8?session=bz4brWJKJYYVjkiuCYLYEW
