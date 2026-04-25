@@ -9,8 +9,8 @@ http://vdopanel.jlahozconsulting.com/p/3869/hybrid/play.m3u8
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 #EXTINF:-1 tvg-id="FARO VISION" tvg-logo="https://i.postimg.cc/1zjLkXz0/nisibonneetv.png" group-title="NOTICIAS",RD (720p)
 https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="BELLA VISION" tvg-logo="https://i.postimg.cc/1zjLkXz0/nisibonneetv.png" group-title="NOTICIAS",RD (720p)
-https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8
+#EXTINF:-1 tvg-id="AhoraTV.do" tvg-logo="https://i.imgur.com/dyJyuXc.png" group-title="General",Ahora TV
+https://tv.livestreaminggroup.info:3513/live/canal35live.m3u8
 #EXTINF:-1 tvg-id="ANTENA LATINA" tvg-logo="https://i.postimg.cc/1zjLkXz0/nisibonneetv.png" group-title="NOTICIAS",ANTENA LATINA-(7)
 https://alba-do-antena7-antena7.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="CCV DIGITAL" tvg-logo="https://www.ccvdigital.com/assets/og.jpg" group-title="NISIBONNET",CCV DIGITAL
@@ -19,35 +19,35 @@ https://eu1.servers10.com:8081/8128/tracks-v1a1/mono.m3u8
 https://host.streamingnation.live/p/3940/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="VISION NDV tvg-logo="" group-title="NISIBONNET",VISION NDV
 https://soportedvb.click:3891/live/visionndvlive.m3u8
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="BELLA VISION" tvg-logo="https://i.postimg.cc/1zjLkXz0/nisibonneetv.png" group-title="NOTICIAS",RD (720p)
+https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8
+#EXTINF:-1 tvg-id="PULSO VISION" tvg-logo="https://i.postimg.cc/1zjLkXz0/nisibonneetv.png" group-title="NOTICIAS",RD (720p)
+https://5790d294af2dc.streamlock.net:443/pulsovision/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Agenda56TV.do" tvg-logo="https://i.imgur.com/G7zIVB7.png" group-title="General",Agenda 56 TV
+https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8
+#EXTINF:-1 tvg-id="Teleimpacto.do" tvg-logo="https://i.imgur.com/dBEysOV.png" group-title="Sin definir",Teleimpacto (720p) [No 24/7 ]
+https://vpss2003.streamprolive.com/hls/live.m3u8
+#EXTINF:-1 tvg-id="Agenda56TV.do" tvg-logo="https://i.imgur.com/G7zIVB7.png" group-title="General",Agenda 56 TV
+https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8
+#EXTINF:-1 tvg-id="PUNTA CANA TV" tvg-logo="https://image.roku.com/developer_channels/prod/7bf8e7724078a4f621cefd92b545b8c57fd05f0af55106258515316c41cdf5e9.png" group-title="Entertainment",PUNTACANA TV
+https://rdn.essastream.com:3544/live/puntacanatvlive.m3u8
+#EXTINF:-1 tvg-id="TELE PROYECTO" tvg-logo="https://i.postimg.cc/yN4fcRWh/nisibonneetv.png" group-title="NOTICIAS",TELE PROYECTO-(4)
+https://5790d294af2dc.streamlock.net:443/Teleproyecto/Teleproyecto/playlist.m3u8
 
 
 
 #EXTINF:-1 tvg-id="ADOCCOTV.do" tvg-logo="https://i.imgur.com/kuv6S3j.png" group-title="Business;Legislative;News",
 https://u.tvabierta.net/memfs/bfcf3849-a054-4b72-b731-e9d76192a74f_output_0.m3u8?session=bz4brWJKJYYVjkiuCYLYEW
 
-#EXTINF:-1 tvg-id="Bellavision.do" tvg-logo="https://i.imgur.com/XqQ3kCs.png" group-title="Entertainment",Bellavision
-https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8
 
-#EXTINF:-1 tvg-id="Agenda56TV.do" tvg-logo="https://i.imgur.com/G7zIVB7.png" group-title="General",Agenda 56 TV
-https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8
 
-#EXTINF:-1 tvg-id="AhoraTV.do" tvg-logo="https://i.imgur.com/dyJyuXc.png" group-title="General",Ahora TV
-https://tv.livestreaminggroup.info:3513/live/canal35live.m3u8
+
 
 #EXTINF:-1 tvg-id="AIONTV.do" tvg-logo="https://i.imgur.com/DBvm7YS.png" group-title="General",AION TV
 https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8
 
-#EXTINF:-1 tvg-id="PUNTA CANA TV" tvg-logo="https://image.roku.com/developer_channels/prod/7bf8e7724078a4f621cefd92b545b8c57fd05f0af55106258515316c41cdf5e9.png" group-title="Entertainment",PUNTACANA TV
-https://rdn.essastream.com:3544/live/puntacanatvlive.m3u8
 
-#EXTINF:-1 tvg-id="TELE PROYECTO" tvg-logo="https://i.postimg.cc/yN4fcRWh/nisibonneetv.png" group-title="NOTICIAS",TELE PROYECTO-(4)
-https://5790d294af2dc.streamlock.net:443/Teleproyecto/Teleproyecto/playlist.m3u8
+
 #EXTINF:-1 tvg-id="MULTI VISION" tvg-logo="https://i.postimg.cc/yN4fcRWh/nisibonneetv.png" group-title="NOTICIAS",MULTI VISION-(5)
 https://live20.bozztv.com/akamaissh101/ssh101/canalmulti24/chunks.m3u8
 #EXTINF:-1 tvg-id="LATINO NY TV" tvg-logo="https://i.postimg.cc/1zjLkXz0/nisibonneetv.png" group-title="NOTICIAS",LATINO NY TV-(6)
@@ -58,8 +58,7 @@ https://5790d294af2dc.streamlock.net/Infoatvhd/Infoatvhd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TELEFUTURO" tvg-logo="https://i.postimg.cc/1zjLkXz0/nisibonneetv.png" group-title="NOTICIAS",RD (720p)
 http://190.110.36.254/TELEFUTURO/index.m3u8
-#EXTINF:-1 tvg-id="PULSO VISION" tvg-logo="https://i.postimg.cc/1zjLkXz0/nisibonneetv.png" group-title="NOTICIAS",RD (720p)
-https://5790d294af2dc.streamlock.net:443/pulsovision/live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Boreal.do" tvg-logo="https://i.imgur.com/KSquHTG.png" group-title="RD 7:20P ",Boreal (720p)
 https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
 #EXTINF:-1 tvg-id="COCOTV.do" tvg-logo="https://i.imgur.com/CnAc7jU.png" group-title="Entretenimiento",COCO TV (720p)
@@ -1109,8 +1108,7 @@ https://rdn.essastream.com:3258/live/telecanal12live.m3u8
 https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="TelehitMusica.mx" tvg-logo="https://i.imgur.com/PfROac9.png" group-title="Música",Telehit Música (576p)
 https://linear-418.frequency.stream/mt/studio/418/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="Teleimpacto.do" tvg-logo="https://i.imgur.com/dBEysOV.png" group-title="Sin definir",Teleimpacto (720p) [No 24/7 ]
-https://vpss2003.streamprolive.com/hls/live.m3u8
+
 #EXTINF:-1 tvg-id="Telemax.do" tvg-logo="https://i.imgur.com/QvKmjvV.png" group-title="Sin definir",Telemax (1080p)
 https://cdn2.streamgato.us/telemax/telemax/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleRadioNorte.do" tvg-logo="https://i.imgur.com/s43eFy0.png" group-title="Sin definir",TeleRadioNorte (720p)
